@@ -96,6 +96,12 @@
                 "guid": "{4b5f308c-26c3-4b44-a23f-f043eee7bf3b}",
                 "hidden": false,
                 "name": "git-CMD"
+            },
+            {
+                "commandline": "C:\\tools\\vim\\vim90\\vim.exe",
+                "guid": "{36982c17-8a78-4b63-a3ee-879748c42a1a}",
+                "hidden": false,
+                "name": "Vim"
             }
         ]
     },
